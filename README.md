@@ -14,30 +14,24 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const mohdSaif = {
-    location: "lucknow, new delhi,noida ",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Bootstrap", "Material UI", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Nest.js"],
-            python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring Boot"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Redis"],
-        mobile: ["React Native", "Flutter"],
-        devOps: ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD", "GitHub Actions"],
-        tools: ["Git", "Postman", "VS Code", "Figma", "Jira"]
-    },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+🚀 Passionate **Full Stack Developer** from Ghaziabad, Uttar Pradesh, India
+
+💻 I specialize in building modern web and mobile applications using cutting-edge technologies
+
+🔧 **What I Do:**
+- Develop responsive and dynamic web applications with React and Next.js
+- Build scalable backend systems with Node.js, Express, and Django
+- Create cross-platform mobile apps using React Native and Flutter
+- Design and implement RESTful APIs and work with various databases
+- Deploy applications using Docker, AWS, and modern DevOps practices
+
+🌱 Currently focused on **building scalable full-stack applications** and exploring new technologies
+
+💡 I love solving complex problems and turning ideas into reality through code
+
+📫 Reach me at: **mdsaif92336@gmail.com**
+
+⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
 
 ---
 
@@ -50,6 +44,7 @@ const mohdSaif = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -66,7 +61,7 @@ const mohdSaif = {
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🗄️ Databases
@@ -82,9 +77,7 @@ const mohdSaif = {
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -133,7 +126,7 @@ const mohdSaif = {
 - 🌱 Learning **Cloud Architecture & Microservices**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, APIs, and Cloud**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **mdsaif92336@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems and turning coffee into code!**
 
 ---
@@ -142,7 +135,8 @@ const mohdSaif = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-saif-48132a289)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsaif92336@gmail.com)
 
 </div>
 
@@ -173,11 +167,6 @@ const mohdSaif = {
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Spotify Playing
-<!-- SPOTIFY:START -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-<!-- SPOTIFY:END -->
-
 ---
 
 ### ⚡ Recent Activity
@@ -188,9 +177,6 @@ const mohdSaif = {
 ---
 
 <img src="https://raw.githubusercontent.com/MOHDSAIF3308/MOHDSAIF3308/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
 
 ---
 
