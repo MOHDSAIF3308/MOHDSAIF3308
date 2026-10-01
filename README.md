@@ -1,191 +1,86 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Mohd+Saif+👋;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&lines=Mohd+Saif;Full-Stack+Engineer+%26+Systems+Builder;Architecting+scalable+web+%26+AI+solutions" alt="Typing SVG" />
 </div>
 
+<br>
+
 <div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=MOHDSAIF3308&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/MOHDSAIF3308)
-  [![GitHub followers](https://img.shields.io/github/followers/MOHDSAIF3308?label=Followers&style=social)](https://github.com/MOHDSAIF3308)
-  [![GitHub Stars](https://img.shields.io/github/stars/MOHDSAIF3308?label=Stars&style=social)](https://github.com/MOHDSAIF3308)
-  
+  <a href="https://saif-portfolio.mohd-saif.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohd-saif-48132a289">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mdsaif92336@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdsaif92336%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
+
+<br>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-🚀 Passionate **Full Stack Developer** from Ghaziabad, Uttar Pradesh, India
+Full-stack engineer focused on building **production-grade web platforms, internal systems, and AI-assisted applications**.  
 
-💻 I specialize in building modern web and mobile applications using cutting-edge technologies
+I work end-to-end — from system design and clean architecture to deployment on modern edge platforms. Most of my recent work involves delivering real client solutions (labs, law firms, operations portals, and learning platforms) that are currently live and used by actual users.
 
-🔧 **What I Do:**
-- Develop responsive and dynamic web applications with React and Next.js
-- Build scalable backend systems with Node.js, Express, and Django
-- Create cross-platform mobile apps using React Native and Flutter
-- Design and implement RESTful APIs and work with various databases
-- Deploy applications using Docker, AWS, and modern DevOps practices
-
-🌱 Currently focused on **building scalable full-stack applications** and exploring new technologies
-
-💡 I love solving complex problems and turning ideas into reality through code
-
-📫 Reach me at: **mdsaif92336@gmail.com**
-
-⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
+**Currently focused on:**  
+Scalable Next.js / TypeScript systems, Cloudflare Workers edge deployments, and integrating practical AI models into real-world applications.
 
 ---
 
-## 🚀 Tech Stack
+### Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,django,flask,mongodb,postgres,docker,aws,cloudflare,git,linux" />
+</p>
+
+**Frontend** → React, Next.js (App Router), TypeScript, Tailwind  
+**Backend** → Node.js, Express, Django, Flask, GraphQL  
+**Data & AI** → MongoDB, PostgreSQL, Redis, TensorFlow / Keras  
+**Infrastructure** → Docker, AWS, Cloudflare Workers, GitHub Actions, Vercel  
+
+---
+
+### Featured Work
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **[Portfolio](https://saif-portfolio.mohd-saif.workers.dev/)** | Personal site showcasing real client deliveries | Next.js • Cloudflare Workers | [Live](https://saif-portfolio.mohd-saif.workers.dev/) |
+| **[Biosyn Analytical](https://github.com/MOHDSAIF3308/BiosynAnalytical)** | Full production website for an accredited food & environment testing lab (9 service pages, grievance portal, EmailJS, video hero) | Next.js 14 • TypeScript • OpenNext • Cloudflare Workers | [Repo](https://github.com/MOHDSAIF3308/BiosynAnalytical) • [Live](https://biosynanalytical.techbiosyn.workers.dev/) |
+| **[CHIKITSA AI](https://github.com/MOHDSAIF3308/CHIKITSA_AI)** | Multi-model AI system for disease detection from medical images (chest X-ray analysis + web interface) | Python • Flask • TensorFlow / Keras | [Repo](https://github.com/MOHDSAIF3308/CHIKITSA_AI) |
+| **Solana Academy** | Interactive Solana developer learning platform with in-browser editor, XP system, leaderboard & on-chain NFT credentials | TypeScript • Web3 • Solana | [Live](https://solana-academy-platform.vercel.app/) |
+| **AH Construction Portal** | Internal operations system for heavy machinery fleet (logbooks, role-based access, Excel export, diesel tracking) across 4 sites | React • Node.js • MongoDB | Private client |
+
+---
+
+### GitHub Snapshot
 
 <div align="center">
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHDSAIF3308&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDSAIF3308&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### Currently Exploring
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHDSAIF3308&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHDSAIF3308&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDSAIF3308&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MOHDSAIF3308&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHDSAIF3308&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 Highlights
-
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Cloud Architecture & Microservices**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, and Cloud**
-- 📫 How to reach me: **mdsaif92336@gmail.com**
-- ⚡ Fun fact: **I love solving complex problems and turning coffee into code!**
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-saif-48132a289)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsaif92336@gmail.com)
-
-</div>
-
----
-
-## 💼 Latest Projects
-
-<!-- Add your top projects here -->
-<div align="center">
-  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MOHDSAIF3308&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/MOHDSAIF3308/your-repo-name)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=MOHDSAIF3308&repo=your-repo-name-2&theme=tokyonight&hide_border=true)](https://github.com/MOHDSAIF3308/your-repo-name-2)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog posts here or use GitHub Actions to automatically fetch them -->
-<!-- BLOG-POST-LIST:END -->
+- Edge-first architectures with Cloudflare Workers & OpenNext  
+- Practical AI integration (computer vision + LLM-assisted workflows)  
+- Clean system design for multi-tenant and internal business platforms  
+- Performance & observability in production Next.js applications  
 
 ---
 
 <div align="center">
-  
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<img src="https://raw.githubusercontent.com/MOHDSAIF3308/MOHDSAIF3308/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</div>
-
+  <br>
+  <a href="https://saif-portfolio.mohd-saif.workers.dev/">View full portfolio →</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:mdsaif92336@gmail.com">Get in touch</a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=80&section=footer" width="100%" />
 </div>
